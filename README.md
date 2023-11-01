@@ -3,7 +3,7 @@
 This repository contains the results of a machine learning group project, which was done during a data science course at Spiced Academy.
 
 The data used for this was from Zindi:
- [turtle rescue forecast](https://zindi.africa/competitions/turtle-rescue-forecast-challenge) 
+ [turtle rescue forecast](https://zindi.africa/competitions/turtle-rescue-forecast-challenge)  
 
 The deliverables are:
 * [slides](turtle_stakeholder_slides.pdf) for a stakeholder presentation
