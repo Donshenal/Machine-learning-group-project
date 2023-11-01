@@ -1,8 +1,9 @@
-# ML Project -- Turtle rescue forecast
+# Machine Learning Project -- Turtle rescue forecast
 
-This repository contains our work on the ML project done during Spiced Academy's data science course.
+This repository contains the results of a machine learning group project, which was done during a data science course at Spiced Academy.
 
-The data used for this is: [turtle rescue forecast](https://zindi.africa/competitions/turtle-rescue-forecast-challenge) from Zindi.
+The data used for this was from Zindi:
+ [turtle rescue forecast](https://zindi.africa/competitions/turtle-rescue-forecast-challenge) 
 
 The deliverables are:
 * [slides](turtle_stakeholder_slides.pdf) for a stakeholder presentation
@@ -32,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 Data: 
-Please download the .csv files containing the data as provided by Zindi, unzip them and put them into the subfolder data/ 
+Please download the .csv files containing the data as provided by Zindi, unzip them and put them into a 'data' subfolder. 
 
 
 ## Usage
