@@ -48,13 +48,15 @@ Please download the .csv files containing the data as provided by Zindi, unzip t
 
 ## Usage
 
-In order to run the script that will
+We wrote a script, which will:
+
 * load and clean the raw data
 * perform some data wrangling and basic feature engineering 
 * train the model and make predictions
 * test and evaluate the predictions
 * perform error analysis,
-run
+
+In order to use the script please run:
 
 ```bash
 source final_script.sh
