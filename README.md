@@ -13,9 +13,13 @@ The deliverables are:
 This project was done by:
 
 [DonShenal](https://github.com/Donshenal)
+
 [papayakaja](https://github.com/papayakaja)
+
 [larixlarix](https://github.com/larixlarix)
+
 [RiptideDS](https://github.com/RiptideDS)
+
 ---
 
 ## The project's Kanban board on github
