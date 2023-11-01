@@ -7,7 +7,7 @@ The data used for this was from Zindi:
 
 The deliverables are:
 * [slides](turtle_stakeholder_slides.pdf) for a stakeholder presentation
-* [jupyter notebooks](notebooks/) for data science/technical audience
+* [jupyter notebooks](notebooks/)
 * scripts for generating and running model from the terminal -- see files final_script.sh and src/predict.py
 
 This project was done by:
