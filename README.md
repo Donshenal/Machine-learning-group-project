@@ -10,6 +10,12 @@ The deliverables are:
 * [jupyter notebooks](notebooks/) for data science/technical audience
 * scripts for generating and running model from the terminal -- see files final_script.sh and src/predict.py
 
+This project was done by:
+
+[DonShenal](https://github.com/Donshenal)
+[papayakaja](https://github.com/papayakaja)
+[larixlarix](https://github.com/larixlarix)
+[RiptideDS](https://github.com/RiptideDS)
 ---
 
 ## The project's Kanban board on github
